@@ -28,6 +28,19 @@ All C projects in this repository are written in accordance with the **42 Norm**
 | **[minitalk](./minitalk)** | Create a communication program in the form of a client and a server. The catch? The only method of communication allowed is **UNIX signals**. |
 | **[so_long](./so_long)** | **so_long** is a small 2D game developed in C using the MiniLibX (MLX) graphical library. |
 
+### Rank 03
+| Project | Description |
+| :--- | :--- |
+| **[Philosopher](./philosophers)** | This project is an implementation of the classic **Dining Philosophers problem**, designed to teach the fundamentals of multithreading, process synchronization, and resource sharing. |
+| **[Minishell](./minishell)** | his project is a custom implementation of a lightweight shell, mimicking the core functionalities of bash, built from scratch in C. |
+
+### Rank 04
+| Project | Description |
+| :--- | :--- |
+| **[Net practice](./net_practice)** |  |
+
+
+
 ### Extras
 | Folder | Description |
 | :--- | :--- |
