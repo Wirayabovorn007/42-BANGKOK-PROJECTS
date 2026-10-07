@@ -44,7 +44,7 @@ All C projects in this repository are written in accordance with the **42 Norm**
 ### Extras
 | Folder | Description |
 | :--- | :--- |
-| **[exam_practice](./exam_practice)** | A collection of practice problems and solutions for the 42 exams (e.g., Exam Rank 02), covering string manipulation, bits, and algorithm basics. |
+| **[exam](./exam)** | A collection of practice problems and solutions for the 42 exams (e.g., Exam Rank 02), covering string manipulation, bits, and algorithm basics. |
 
 ## 🛠️ Usage
 Most C projects in this repository include a `Makefile`. To test or run a specific project:
